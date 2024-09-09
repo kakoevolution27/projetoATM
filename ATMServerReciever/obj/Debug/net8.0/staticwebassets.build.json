@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jO4LJ4UEVbnK9Y4lYtFiKQO09LX2t2D4eAasc34d/lo=",
+  "Source": "ATMServerReciever",
+  "BasePath": "_content/ATMServerReciever",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
